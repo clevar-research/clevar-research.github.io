@@ -1,9 +1,9 @@
 const cacheName = "QUT CLEVAR Group-CLEVAR Study - Game Juice-0.1";
 const contentToCache = [
     "Build/juicing.loader.js",
-    "Build/juicing.framework.js.br",
-    "Build/juicing.data.br",
-    "Build/juicing.wasm.br",
+    "Build/juicing.framework.js.gz",
+    "Build/juicing.data.gz",
+    "Build/juicing.wasm.gz",
     "TemplateData/style.css"
 
 ];
