@@ -1,0 +1,15 @@
+{
+    "name": "CLEVAR Study - Game Juice",
+    "short_name": "CLEVAR Study - Game Juice",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#CCCCCC",
+    "theme_color": "#fff",
+    "description": "QUT CLEVAR Study - Game Juicing",
+    "icons": [{
+      "src": "TemplateData/icons/unity-logo-light.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
